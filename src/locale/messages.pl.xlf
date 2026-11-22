@@ -17,9 +17,9 @@
         <target state="translated">Aktywne klastry produkcyjne</target>
         <note priority="1" from="description">Cluster health section heading</note>
       </trans-unit>
-      <trans-unit id="incidentsHeading" datatype="html">
+      <trans-unit id="incidentsHeading" datatype="html" xml:space="preserve" approved="no">
         <source>Incident &amp; Alert Center</source>
-        <target state="needs-translation"/>
+        <target state="translated">Incydenty &amp; Centrum powiadomień</target>
         <note priority="1" from="description">Incidents page heading</note>
       </trans-unit>
       <trans-unit id="billingTitle" datatype="html">
