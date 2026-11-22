@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="incidentsHeading" datatype="html" xml:space="preserve" approved="no">
         <source>Incident &amp; Alert Center</source>
-        <target state="translated">Incydenty &amp; Centrum powiadomień</target>
+        <target state="translated">Incydenty</target>
         <note priority="1" from="description">Incidents page heading</note>
       </trans-unit>
       <trans-unit id="billingTitle" datatype="html">
