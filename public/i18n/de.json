@@ -1,0 +1,14 @@
+{
+  "NAV": {
+    "DASHBOARD": "Übersicht",
+    "INCIDENTS": "Vorfälle",
+    "BILLING": "Abrechnung",
+    "SETTINGS": "Einstellungen"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "SAVE": "Änderungen speichern",
+      "CANCEL": "Abbrechen"
+    }
+  }
+}

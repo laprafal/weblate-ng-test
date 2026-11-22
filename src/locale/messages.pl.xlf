@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" target-language="pl" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="langLabel" datatype="html">
+        <source>Language:</source>
+        <target state="translated">Język:</target>
+        <note priority="1" from="description">Language selector label</note>
+      </trans-unit>
+      <trans-unit id="dashboardTitle" datatype="html">
+        <source>Infrastructure Overview</source>
+        <target state="translated">Przegląd infrastruktury</target>
+        <note priority="1" from="description">Dashboard page title</note>
+      </trans-unit>
+      <trans-unit id="clusterHealthHeading" datatype="html">
+        <source>Active Production Clusters</source>
+        <target state="needs-translation"></target>
+        <note priority="1" from="description">Cluster health section heading</note>
+      </trans-unit>
+      <trans-unit id="incidentsHeading" datatype="html">
+        <source>Incident &amp; Alert Center</source>
+        <target state="needs-translation"></target>
+        <note priority="1" from="description">Incidents page heading</note>
+      </trans-unit>
+      <trans-unit id="billingTitle" datatype="html">
+        <source>Subscription &amp; Resource Quotas</source>
+        <target state="needs-translation"></target>
+        <note priority="1" from="description">Billing page title</note>
+      </trans-unit>
+      <trans-unit id="settingsTitle" datatype="html">
+        <source>Workspace &amp; Localization Settings</source>
+        <target state="needs-translation"></target>
+        <note priority="1" from="description">Workspace settings title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,62 @@
+{
+  "NAV": {
+    "DASHBOARD": "Pulpit",
+    "INCIDENTS": "Incydenty",
+    "BILLING": "Rozliczenia i limity",
+    "SETTINGS": "Ustawienia"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "SAVE": "Zapisz zmiany",
+      "CANCEL": ""
+    },
+    "STATUS": {
+      "HEALTHY": "Sprawny",
+      "DEGRADED": "Obniżona wydajność"
+    }
+  },
+  "DASHBOARD": {
+    "SUBTITLE": "Telemetria w czasie rzeczywistym i stan klastrów dla regionu {{region}}",
+    "CLUSTER_DESCRIPTION": "Wszystkie produkcyjne klastry Kubernetes są monitorowane co 15 sekund z włączonym automatycznym przełączaniem awaryjnym.",
+    "DEPLOY_NOTICE": "",
+    "ACTIONS": {
+      "DEPLOY_RELEASE": "Wdróż nową wersję"
+    },
+    "KPI": {
+      "UPTIME_TITLE": "Dostępność systemu",
+      "UPTIME_SUB": "Pomiar z ostatnich {{days}} dni",
+      "LATENCY_TITLE": "Czas odpowiedzi API",
+      "LATENCY_SUB": "Globalne opóźnienie bramki {{percentile}}",
+      "NODES_TITLE": "Aktywne węzły robocze",
+      "NODES_SUB": ""
+    },
+    "TABLE": {
+      "CLUSTER": "Nazwa klastra",
+      "REGION": "Region",
+      "CPU_LOAD": "Obciążenie CPU",
+      "STATUS": "Status"
+    }
+  },
+  "INCIDENTS": {
+    "INTRO": "Śledź bieżące degradacje usług, potwierdzaj alerty dyżurne i przeglądaj raporty powdrożeniowe.",
+    "FILTER": {
+      "TITLE": "Filtruj aktywne alerty",
+      "SEARCH_PLACEHOLDER": "Szukaj po ID incydentu lub nazwie mikroserwisu...",
+      "ALL_SEVERITIES": "Wszystkie priorytety"
+    },
+    "SEVERITY": {
+      "HIGH": "Krytyczny",
+      "MEDIUM": "Ostrzeżenie",
+      "LOW": "Informacyjny"
+    },
+    "ITEMS": {
+      "AUTH_TIMEOUT": "Wykryto podwyższone opóźnienie weryfikacji tokenów na endpoincie OAuth2.",
+      "WEBHOOK_RETRY": "",
+      "CACHE_MISS_SPIKE": ""
+    },
+    "ACTIONS": {
+      "ACKNOWLEDGE": "Potwierdź incydent",
+      "REOPEN": "Otwórz ponownie"
+    }
+  }
+}

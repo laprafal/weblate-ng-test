@@ -1,0 +1,21 @@
+# Zależności
+/node_modules
+
+# Foldery budowania Angulara i cache
+/dist
+/.angular/cache
+
+# Tymczasowe paczki ZIP dla Weblate
+*.zip
+/weblate-upload-bundles
+
+# Zmienne środowiskowe (np. z kluczem WEBLATE_API_KEY)
+.env
+.env.local
+
+# Pliki systemowe i edytorów
+.DS_Store
+Thumbs.db
+/.vscode/*
+!/.vscode/extensions.json
+/.idea

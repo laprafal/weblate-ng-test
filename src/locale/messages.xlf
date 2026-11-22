@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="billingTitle" datatype="html">
+        <source> Subscription &amp; Resource Quotas </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/billing/billing.component.ts</context>
+          <context context-type="linenumber">11,13</context>
+        </context-group>
+        <note priority="1" from="description">Billing page title</note>
+      </trans-unit>
+      <trans-unit id="dashboardTitle" datatype="html">
+        <source>Infrastructure Overview</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/dashboard/dashboard.component.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+        <note priority="1" from="description">Dashboard page title</note>
+      </trans-unit>
+      <trans-unit id="clusterHealthHeading" datatype="html">
+        <source> Active Production Clusters </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/dashboard/dashboard.component.ts</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+        <note priority="1" from="description">Cluster health section heading</note>
+      </trans-unit>
+      <trans-unit id="incidentsHeading" datatype="html">
+        <source> Incident &amp; Alert Center </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/incidents/incidents.component.ts</context>
+          <context context-type="linenumber">20,22</context>
+        </context-group>
+        <note priority="1" from="description">Incidents page heading</note>
+      </trans-unit>
+      <trans-unit id="settingsTitle" datatype="html">
+        <source> Workspace &amp; Localization Settings </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/settings/settings.component.ts</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+        <note priority="1" from="description">Workspace settings title</note>
+      </trans-unit>
+      <trans-unit id="langLabel" datatype="html">
+        <source>Language:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+        <note priority="1" from="description">Language selector label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,101 @@
+{
+  "NAV": {
+    "DASHBOARD": "Dashboard",
+    "INCIDENTS": "Incidents",
+    "BILLING": "Billing & Quotas",
+    "SETTINGS": "Settings"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "SAVE": "Save changes",
+      "CANCEL": "Cancel"
+    },
+    "STATUS": {
+      "HEALTHY": "Healthy",
+      "DEGRADED": "Degraded"
+    }
+  },
+  "DASHBOARD": {
+    "SUBTITLE": "Real-time telemetry and cluster health for region {{region}}",
+    "CLUSTER_DESCRIPTION": "All production Kubernetes clusters are monitored every 15 seconds with automated failover enabled.",
+    "DEPLOY_NOTICE": "Deployment pipeline triggered for release {{version}}. Rolling update is in progress.",
+    "ACTIONS": {
+      "DEPLOY_RELEASE": "Deploy new release"
+    },
+    "KPI": {
+      "UPTIME_TITLE": "System Availability",
+      "UPTIME_SUB": "Measured over the last {{days}} days",
+      "LATENCY_TITLE": "API Response Time",
+      "LATENCY_SUB": "Global {{percentile}} gateway latency",
+      "NODES_TITLE": "Active Worker Nodes",
+      "NODES_SUB": "{{count}} nodes currently draining for maintenance"
+    },
+    "TABLE": {
+      "CLUSTER": "Cluster Name",
+      "REGION": "Region",
+      "CPU_LOAD": "CPU Load",
+      "STATUS": "Health Status"
+    }
+  },
+  "INCIDENTS": {
+    "INTRO": "Track ongoing service degradations, acknowledge on-call alerts, and review post-mortem notes.",
+    "FILTER": {
+      "TITLE": "Filter Active Alerts",
+      "SEARCH_PLACEHOLDER": "Search by incident ID or microservice name...",
+      "ALL_SEVERITIES": "All severities"
+    },
+    "SEVERITY": {
+      "HIGH": "Critical",
+      "MEDIUM": "Warning",
+      "LOW": "Informational"
+    },
+    "ITEMS": {
+      "AUTH_TIMEOUT": "Elevated token verification latency detected on OAuth2 introspection endpoint.",
+      "WEBHOOK_RETRY": "Outbound payment webhook queue exceeded retry threshold in eu-central-1.",
+      "CACHE_MISS_SPIKE": "Temporary CDN edge cache invalidation caused higher origin bandwidth usage."
+    },
+    "ACTIONS": {
+      "ACKNOWLEDGE": "Acknowledge incident",
+      "REOPEN": "Reopen incident"
+    }
+  },
+  "BILLING": {
+    "DESCRIPTION": "Manage your organization subscription tier, compute quotas, and automated VAT invoicing.",
+    "PER_MONTH": "/ month",
+    "RECOMMENDED": "Most Popular",
+    "PLANS": {
+      "STARTER": {
+        "NAME": "Starter Team",
+        "DETAILS": "Up to 5 production clusters, 7-day log retention, and standard email support."
+      },
+      "ENTERPRISE": {
+        "NAME": "Enterprise Scale",
+        "DETAILS": "Unlimited clusters, 365-day audit logs, dedicated Slack channel, and 99.99% SLA."
+      }
+    },
+    "ACTIONS": {
+      "SELECT_PLAN": "Switch to Starter",
+      "UPGRADE_NOW": "Upgrade to Enterprise"
+    },
+    "INVOICES": {
+      "TITLE": "Tax & Invoicing Preferences",
+      "VAT_NOTE": "Invoices are generated on the 1st of each month and sent to your billing administrator."
+    }
+  },
+  "SETTINGS": {
+    "SUBTITLE": "Configure organization identity, on-call notification channels, and telemetry retention.",
+    "FORM": {
+      "ORG_NAME": "Organization Display Name",
+      "ALERT_EMAIL": "Primary On-Call Escalation Email",
+      "RETENTION_POLICY": "Audit Log Retention Period",
+      "RETENTION_30": "30 days (Standard)",
+      "RETENTION_90": "90 days (Compliance)",
+      "RETENTION_365": "365 days (Enterprise Archive)",
+      "MAINTENANCE_NOTE": "Public Status Page Banner",
+      "MAINTENANCE_PLACEHOLDER": "Optional announcement displayed during scheduled maintenance windows..."
+    },
+    "MESSAGES": {
+      "SAVED_OK": "Workspace configuration has been saved."
+    }
+  }
+}
