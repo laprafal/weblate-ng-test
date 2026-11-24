@@ -61,7 +61,7 @@ import { KpiCardComponent } from '../../shared/kpi-card/kpi-card.component';
               <td>k8s-prod-frankfurt-01</td>
               <td>eu-central-1</td>
               <td>64%</td>
-              <td><span class="badge badge-ok" i18n>sprawny</span></td>
+              <td><span class="badge badge-ok" i18n="sprawny">Sprawny</span></td>
             </tr>
             <tr>
               <td>k8s-prod-warsaw-02</td>
