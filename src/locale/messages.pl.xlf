@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="dashboardTitle2" datatype="html" xml:space="preserve" approved="yes">
         <source>Working</source>
-        <target state="final">Sprawwwny</target>
+        <target state="final">Sprawny</target>
         <note priority="1" from="description">Sprawny</note>
       </trans-unit>
     </body>
