@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="ng2.template">
     <body>
-      <trans-unit id="langLabel" datatype="html">
+      <trans-unit id="langLabel" datatype="html" xml:space="preserve">
         <source>Language:</source>
         <target state="translated">Sprache:</target>
       </trans-unit>
       <trans-unit id="dashboardTitle" datatype="html">
         <source>Infrastructure Overview</source>
-        <target state="needs-translation"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="clusterHealthHeading" datatype="html">
         <source>Active Production Clusters</source>
-        <target state="needs-translation"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="incidentsHeading" datatype="html">
         <source>Incident &amp; Alert Center</source>
-        <target state="needs-translation"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="billingTitle" datatype="html">
         <source>Subscription &amp; Resource Quotas</source>
-        <target state="needs-translation"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="settingsTitle" datatype="html">
         <source>Workspace &amp; Localization Settings</source>
-        <target state="needs-translation"></target>
+        <target state="new"/>
       </trans-unit>
     </body>
   </file>
