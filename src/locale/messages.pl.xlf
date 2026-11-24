@@ -33,7 +33,7 @@
         <note priority="1" from="description">Workspace settings title</note>
       </trans-unit>
       <trans-unit id="dashboardTitle2" datatype="html" xml:space="preserve" approved="yes">
-        <source>Sprawny</source>
+        <source>Working</source>
         <target state="final">Sprawwwny</target>
         <note priority="1" from="description">Sprawny</note>
       </trans-unit>
