@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="dashboardTitle" datatype="html" xml:space="preserve" approved="yes">
         <source>Infrastructure Overview</source>
-        <target state="final">Infrastruktura</target>
+        <target state="final">Infrastrukturaaaa</target>
         <note priority="1" from="description">Dashboard page title</note>
       </trans-unit>
       <trans-unit id="clusterHealthHeading" datatype="html" xml:space="preserve" approved="no">
