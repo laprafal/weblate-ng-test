@@ -7,9 +7,9 @@
         <target state="translated">Język:</target>
         <note priority="1" from="description">Language selector label</note>
       </trans-unit>
-      <trans-unit id="dashboardTitle" datatype="html" xml:space="preserve">
+      <trans-unit id="dashboardTitle" datatype="html" xml:space="preserve" approved="yes">
         <source>Infrastructure Overview</source>
-        <target state="translated">Infrastruktura</target>
+        <target state="final">Infrastruktura</target>
         <note priority="1" from="description">Dashboard page title</note>
       </trans-unit>
       <trans-unit id="clusterHealthHeading" datatype="html" xml:space="preserve" approved="no">
@@ -17,9 +17,9 @@
         <target state="translated">Aktywne klastry produkcyjne</target>
         <note priority="1" from="description">Cluster health section heading</note>
       </trans-unit>
-      <trans-unit id="incidentsHeading" datatype="html" xml:space="preserve" approved="no">
+      <trans-unit id="incidentsHeading" datatype="html" xml:space="preserve" approved="yes">
         <source>Incident &amp; Alert Center</source>
-        <target state="translated">Incydenty &amp; Centrum powiadomień</target>
+        <target state="final">Incydenty &amp; Centrum powiadomień</target>
         <note priority="1" from="description">Incidents page heading</note>
       </trans-unit>
       <trans-unit id="billingTitle" datatype="html">
