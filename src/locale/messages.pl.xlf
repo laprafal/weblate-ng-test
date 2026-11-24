@@ -7,9 +7,9 @@
         <target state="translated">Język:</target>
         <note priority="1" from="description">Language selector label</note>
       </trans-unit>
-      <trans-unit id="dashboardTitle" datatype="html" xml:space="preserve" approved="yes">
+      <trans-unit id="dashboardTitle" datatype="html" xml:space="preserve" approved="no">
         <source>Infrastructure Overview</source>
-        <target state="final">Infrastrukturaaaa</target>
+        <target state="translated">Infra</target>
         <note priority="1" from="description">Dashboard page title</note>
       </trans-unit>
       <trans-unit id="clusterHealthHeading" datatype="html" xml:space="preserve" approved="no">
